@@ -4,12 +4,12 @@ O projeto consiste em criar um compilador funcional.
 
 ### :heavy_check_mark: Checklist Funcionalidades
 
-- [ ] Salvar
-- [ ] Copiar
-- [ ] Colar
-- [ ] Recortar
-- [ ] Abrir
-- [ ] Compilar
+- [x] Salvar
+- [x] Copiar
+- [x] Colar
+- [x] Recortar
+- [x] Abrir
+- [x] Compilar
   
 ### :rocket: Tecnologias
 
